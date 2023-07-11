@@ -20,7 +20,9 @@ The i2C USB Hub is currently being developed to Version 1.2.
 [See the wiki on GitHub!](https://github.com/JimHeaney/i2c-usb-hub/wiki) 
 
 ## Photos & Media
-Coming soon...
+![i2cusbhub](https://github.com/JimHeaney/i2c-usb-hub/assets/20119374/fa143346-7edd-4223-ab9a-55fe71ca1643)
+![PXL_20230711_111457045](https://github.com/JimHeaney/i2c-usb-hub/assets/20119374/e971a3d9-a1b9-4846-8004-f8e632f08360)
+
 
 ## Support Me
 You can buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
