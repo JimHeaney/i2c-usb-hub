@@ -6,21 +6,31 @@ Have you ever wanted to control USB devices using an Arduino, ESP32, or Raspberr
 ### More information can be found on the [GitHub Wiki](https://github.com/JimHeaney/i2c-usb-hub/wiki).
 
 ## Current Release
-There are no stable versions for release. The latest WIP is Version 1.1
+There are no stable versions for release. The latest WIP is Version 1.3
+
+## New in Version 1.3:
+
+New Features:
+* Micro-USB port replaced with USB-C port
+
+Bug Fixes:
+* DP and DN traces properly connected to USB hub IC now
+* STEMMA QT pinouts corrected
+
+Other Notes:
+* Minor component re-arranges to make PnP assembly easier.
 
 ## Current State
-The i2C USB Hub is currently being developed to Version 1.2.
+The i2C USB Hub is currently being tested at Version 1.3
 
 ## TODO
-* There is a wiring error on the USB, DP and DN need to be flipped
-* The STEMMA-compatbile connector was not working in testing, verify what's wrong and fix
 * Write library to allow for easier Arduino use
 
 ## Instructions & Further Documentation
 [See the wiki on GitHub!](https://github.com/JimHeaney/i2c-usb-hub/wiki) 
 
 ## Photos & Media
-![i2cusbhub](https://github.com/JimHeaney/i2c-usb-hub/assets/20119374/fa143346-7edd-4223-ab9a-55fe71ca1643)
+![image](https://github.com/JimHeaney/i2c-usb-hub/assets/20119374/2a86dd0b-e952-4da3-bea8-ad28d25779e8)
 ![PXL_20230711_111457045](https://github.com/JimHeaney/i2c-usb-hub/assets/20119374/e971a3d9-a1b9-4846-8004-f8e632f08360)
 
 
