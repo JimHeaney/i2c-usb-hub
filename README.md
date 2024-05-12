@@ -5,6 +5,8 @@ Have you ever wanted to control USB devices using an Arduino, ESP32, or Raspberr
 
 ### More information can be found on the [GitHub Wiki](https://github.com/JimHeaney/i2c-usb-hub/wiki).
 
+### [Arduino library now available!](https://github.com/JimHeaney/i2c-usb-hub-arduino) 
+
 ## Current Release
 There are no stable versions for release. The latest WIP is Version 1.3
 
